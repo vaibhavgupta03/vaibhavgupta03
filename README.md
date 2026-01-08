@@ -1,39 +1,65 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Vaibhav Gupta 🚀🚀</h1>
-<h3 align="center">Code is my comfort zone when the world gets too noisy 🎧</h3>
+<h1 align="center">
+Hi 👋, I'm Vaibhav Gupta
+</h1>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/vaibhav-gupta-45a340225/" target="_blank">
-    <img src="https://img.shields.io/badge/-Vaibhav%20Gupta-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="vaibhavgupta" />
-  </a>
-  <a href="https://twitter.com/vaibhavgupta090" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vaibhavgupta090?logo=twitter&style=for-the-badge" alt="vaibhavgupta090" />
-  </a>
-  <a href="https://vaibhav09.hashnode.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-darkblue?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge" />
-  </a>
-</div>
+<h3 align="center">
+M.Tech | Advanced Instrumentation & Artificial Intelligence • IIT Roorkee  <br> 
+</h3><h4 align="center">
+Digital System Design • FPGA Hardware • AI-Optimized Hardware Solutions
+</h4>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=vaibhavgupta03&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavgupta03" />
+<p align="center">
+Code and circuits — both help me think clearly when the world gets noisy.
 </p>
 
 ---
 
-🛠 **Tech Stack**  
-`C/C++ | Embedded C | JavaScript | Assembly (8085) | MATLAB | Arduino | Cadence | KiCAD | PSpice/LTSpice`
-
-📚 **Core Domains**  
-`Digital Electronics | VLSI | Microprocessors | Analog & Digital Circuits | Semiconductor Devices | Control Systems`
-
-🧠 **Mindset**  
-ECE undergrad who loves experimenting with hardware and logic.  
-Not a full-time coder — but when I need a mental refresh, writing code just *clicks*.  
-From debugging circuit layouts to building embedded logic, I enjoy tinkering where software meets hardware.
-
-📬 **Reach Me**  
-**vaibhavgupta6393@gmail.com**
+### 🔗 Connect with me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-gupta-45a340225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vaibhav%20Gupta-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/vaibhavgupta090" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@vaibhavgupta090-1DA1F2?style=flat-square&logo=twitter" />
+  </a>
+  <a href="https://vaibhav09.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-Hashnode-black?style=flat-square&logo=hashnode" />
+  </a>
+</p>
 
 ---
 
-<h2>📊 Github Overview</h2>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhavgupta03&show_icons=true&locale=en&layout=compact" alt="vaibhavgupta03" /></p>
+## 👨‍🎓 About Me
+
+- M.Tech student at **IIT Roorkee** specializing in **Advanced Instrumentation & Artificial Intelligence**.  
+- Primarily interested in **digital hardware design, FPGA-based systems, and AI-aware hardware architectures**.  
+- I focus on building **strong electronic fundamentals** and enjoy working where **hardware, signal processing, and machine learning intersect**.
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming & HDL**
+`C / C++ | Embedded C | Verilog (RTL – basics) | MATLAB | Python | 8085 Assembly | Machine Learning (foundational)`
+
+### **Electronics & VLSI**
+`Digital Electronics | Analog & Digital Circuits | Semiconductor Devices | Microprocessors & Microcontrollers | FPGA-based Digital System Design | Static Timing Analysis (learning)`
+
+### **EDA & Tools**
+`Xilinx Vivado | Proteus | LTSpice / PSpice | Arduino IDE | GTKWave`
+
+---
+
+## 🔬 Academic & Research Interests
+
+`Digital IC Design | RTL & Timing Closure | FPGA-based Signal Processing | Signal & Image Processing | Sensors & Instrumentation | Hardware-Aware AI`
+
+
+
+## 📬 Contact
+
+📧 **vaibhav_g2@ee.iitr.ac.in**
+
+<p align="center">
+<i>Fundamentals first — tools and titles will follow.</i>
+</p>
