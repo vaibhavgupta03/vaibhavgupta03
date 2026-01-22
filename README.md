@@ -76,15 +76,6 @@ If you’re interested in **Verilog, FPGA design, or hardware-aware AI**, you’
 
 I’m open to **feedback, suggestions, and optimization ideas** — feel free to explore, raise issues, or share insights.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta03&layout=compact" />
-</p>
-
----
 
 ## 📬 Contact
 
