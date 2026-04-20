@@ -69,10 +69,8 @@ If you’re interested in **Verilog, FPGA design, or hardware-aware AI**, you’
 
 ## 🚀 Currently Working On
 
-- 📘 **Learning Verilog & VHDL** through structured examples  
-  → Repositories: `verilog-tutorial`, `vhdl-tutorial`
-- 🔧 **Designing a DFT-based digital filter in Verilog**
-- 📈 Improving **code clarity, synthesis-friendliness, and timing efficiency**
+🔧 Implementing FPGA-Based Real-Time SDFT Spectral Analyzer in Verilog
+📘 Deepening expertise in timing closure and synthesis-optimized RTL design
 
 I’m open to **feedback, suggestions, and optimization ideas** — feel free to explore, raise issues, or share insights.
 
