@@ -16,6 +16,7 @@ Code and circuits — both help me think clearly when the world gets noisy.
 
 ---
 
+
 ## 👋 Welcome
 
 I use this space to **learn in public**, strengthen my **digital hardware fundamentals**,  
@@ -43,7 +44,6 @@ If you’re interested in **Verilog, FPGA design, or hardware-aware AI**, you’
 ## 👨‍🎓 About Me
 
 - M.Tech student at **IIT Roorkee**, specializing in **Advanced Instrumentation & Artificial Intelligence**
-- Strong interest in **digital hardware design, FPGA-based systems, and RTL-level implementation**
 - Exploring **hardware–algorithm co-design**, especially where **signal processing and machine learning meet silicon**
 
 ---
@@ -51,7 +51,7 @@ If you’re interested in **Verilog, FPGA design, or hardware-aware AI**, you’
 ## 🛠️ Technical Skills
 
 ### **Programming & HDL**
-`C / C++ | Embedded C | Verilog (RTL – actively building) | MATLAB | Python | 8085 Assembly | Machine Learning (foundational)`
+`C / C++ | Embedded C | Verilog | VHDL | MATLAB | Python | 8085 Assembly | Machine Learning (foundational)`
 
 ### **Electronics & VLSI**
 `Digital Electronics | Analog & Digital Circuits | Semiconductor Devices | Microprocessors & Microcontrollers | FPGA-based Digital System Design | Static Timing Analysis (learning)`
@@ -69,8 +69,13 @@ If you’re interested in **Verilog, FPGA design, or hardware-aware AI**, you’
 
 ## 🚀 Currently Working On
 
-🔧 Implementing FPGA-Based Real-Time SDFT Spectral Analyzer in Verilog
-📘 Deepening expertise in timing closure and synthesis-optimized RTL design
+🔧 FPGA-Based Real-Time SDFT Spectral Analyzer — Verilog, Xilinx Vivado, ZedBoard
+🖥️ Single-Cycle RISC-V CPU — VHDL, RV32I ISA, FPGA Deployment
+📐 M.Tech Thesis — FPGA Realization of the Observer-Based Sliding Discrete Fourier Transform
+
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavgupta03&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgupta03&layout=compact&langs_count=6)
 
 I’m open to **feedback, suggestions, and optimization ideas** — feel free to explore, raise issues, or share insights.
 
