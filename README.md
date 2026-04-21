@@ -50,8 +50,8 @@ If you're interested in **Verilog, VHDL, FPGA design, or hardware-aware signal p
 |---|---|---|---|
 | [UART Communication System](https://github.com/vaibhavgupta03/UART-Communication-System) | VHDL | Spartan-3E | ✅ Complete |
 | [Electronic Voting Machine](https://github.com/vaibhavgupta03/Electronic-Voting-Machine-using-VHDL) | VHDL | ZedBoard | ✅ Complete |
-| FPGA-Based Real-Time SDFT Spectral Analyzer | Verilog | ZedBoard | 🔧 In Progress |
-|[16-bit RISC-V CPU](https://github.com/vaibhavgupta03/Vaibhavs16BitRISCVCPU) | Verilog | FPGA | 🔧 In Progress |
+| FPGA-Based Real-Time Sliding Discrete Fourier Transform (SDFT) Implementation | Verilog | FPGA | 🔧 In Progress |
+|[16-bit RISC-V CPU](https://github.com/vaibhavgupta03/Vaibhavs16BitRISCVCPU) | Verilog | Zedboard/Spartan-3E | 🔧 In Progress |
 
 ---
 
@@ -76,8 +76,8 @@ If you're interested in **Verilog, VHDL, FPGA design, or hardware-aware signal p
 
 ## 🚀 Currently Working On
 
-- 🔧 **FPGA-Based Real-Time SDFT Spectral Analyzer** — Verilog, Xilinx Vivado, ZedBoard
-- 🖥️ **Single-Cycle RISC-V CPU** — VHDL, RV32I ISA, FPGA Deployment
+- 🔧 **FPGA-Based Real-Time Sliding Discrete Fourier Transform (SDFT) Implementation** — Verilog, Intel Quartus, MATLAB Simulink, DSP Builder, FPGA Deployment
+- 🖥️ **16-bit pipelined RISC-V CPU** — Verilog, RV32I ISA, FPGA Deployment (Zedboard/Spartan 3E)
 - 📐 **M.Tech Thesis** — FPGA Realization of the Observer-Based Sliding Discrete Fourier Transform
 
 ---
