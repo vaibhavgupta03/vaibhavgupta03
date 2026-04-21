@@ -51,7 +51,7 @@ If you're interested in **Verilog, VHDL, FPGA design, or hardware-aware signal p
 | [UART Communication System](https://github.com/vaibhavgupta03/UART-Communication-System) | VHDL | Spartan-3E | ✅ Complete |
 | [Electronic Voting Machine](https://github.com/vaibhavgupta03/Electronic-Voting-Machine-using-VHDL) | VHDL | ZedBoard | ✅ Complete |
 | FPGA-Based Real-Time SDFT Spectral Analyzer | Verilog | ZedBoard | 🔧 In Progress |
-| Single-Cycle RISC-V CPU (RV32I) | VHDL | FPGA | 🔧 In Progress |
+|[16-bit RISC-V CPU](https://github.com/vaibhavgupta03/Vaibhavs16BitRISCVCPU) | Verilog | FPGA | 🔧 In Progress |
 
 ---
 
